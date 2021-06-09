@@ -1,0 +1,14 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "version": "independent",
+  "command": {
+    "version": {
+      "includeMergedTags": true
+    },
+    "publish": {
+      "message": "Release"
+    }
+  }
+}
